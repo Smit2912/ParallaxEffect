@@ -1,34 +1,37 @@
-# 🌦️ Weather Web App with Parallax Effect 🌟
+# 🌄 Parallax Effect App
 
-This repository contains a Weather Web Application that features a parallax effect for an enhanced user experience.
+## 📖 Overview
 
-## 🌟 Introduction
-This Weather Web Application provides current weather information and includes a visually appealing parallax scrolling effect. The project is designed to be responsive and user-friendly.
+Parallax Effect App is a visually engaging web application demonstrating the parallax scrolling effect. It enhances the user experience by adding depth to web pages through background and foreground image movements.
 
 ## ✨ Features
-- 🌡️ Current weather information based on user's location
-- 🎨 Parallax scrolling effect for an engaging user experience
-- 📱 Responsive design for various screen sizes
 
-## 🛠️ Technologies Used
-- 🖥️ HTML5
-- 🎨 CSS3
-- ⚙️ JavaScript
-- 🌐 Parallax.js (for parallax effect)
+- 📱 Responsive design
+- 🌟 Parallax scrolling effect
+- 🎨 Clean and modern UI
 
-## 📝 Setup
-To run this project locally, follow these steps:
+## 🛠 Technologies Used
+
+- 🌐 HTML
+- 🎨 CSS
+
+## 🚀 Installation
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/Smit2912/ParallaxEffect.git
-    ```
+   sh
+   git clone https://github.com/Smit2912/ParallaxEffect.git
+   
+   
 2. Navigate to the project directory:
-    ```bash
-    cd ParallaxEffect
-    ```
-3. Open `index.html` in your preferred web browser.
+   sh
+   cd ParallaxEffect
+   
+3. Open index.html in your preferred web browser to view the app.
 
-## 🚀 Usage
-- Ensure your internet connection is active.
-- Allow location access if prompted, to get accurate weather information.
+## 🖱 Usage
+
+Open the index.html file in a web browser to experience the parallax scrolling effect.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
